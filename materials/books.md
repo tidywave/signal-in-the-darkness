@@ -3,6 +3,7 @@
 ## Easy
 
 - The Last Question by Isaac Asimov
+- The Library of Babel by Jorge Luis Borges
 
 ## Medium
 
