@@ -15,6 +15,8 @@ Uncertainty remains the most honest approach to the unknown. Many consistent the
 
 ## Keeping faith honest
 
+What do we know for certain? It should be clear that no single one of us has answers to all of our questions. A lot of what we call knowledge is speculative at best. In fact, at its most basic basic level, the feeling of knowing is an emotion that we feel when we think we are correct. It is our responsibility to discern whether or not this feeling is correct.
+
 We can model one's worldview as a series of up and down arrows based on statements one deems true (`^`) or false (`v`):
 
 ```text
