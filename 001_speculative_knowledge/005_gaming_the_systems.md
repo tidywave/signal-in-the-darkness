@@ -8,7 +8,7 @@ Systems are a form of game played among large groups of people. One such system 
 
 ## Prisoners Dilemma
 
-The prisoner's dilemma is a classic game that serves to analyze personal gain vs collective game within a system. Consider the following hypothetical situation:
+The prisoner's dilemma is a classic game that serves to analyze personal gain vs collective gain within a system. Consider the following hypothetical situation:
 
 > You and your co-conspirator are on the black team and playing against the red team in a game of spies. You have been captured by the red team and have been placed in separate holding cells. You have two choices:
 >
